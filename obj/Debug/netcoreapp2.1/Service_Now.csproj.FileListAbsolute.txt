@@ -1,0 +1,12 @@
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\bin\Debug\netcoreapp2.1\Service_Now.deps.json
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\bin\Debug\netcoreapp2.1\Service_Now.runtimeconfig.json
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\bin\Debug\netcoreapp2.1\Service_Now.runtimeconfig.dev.json
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\bin\Debug\netcoreapp2.1\Service_Now.dll
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\bin\Debug\netcoreapp2.1\Service_Now.pdb
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\obj\Debug\netcoreapp2.1\Service_Now.csprojAssemblyReference.cache
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\obj\Debug\netcoreapp2.1\Service_Now.csproj.CoreCompileInputs.cache
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\obj\Debug\netcoreapp2.1\Service_Now.AssemblyInfoInputs.cache
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\obj\Debug\netcoreapp2.1\Service_Now.AssemblyInfo.cs
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\obj\Debug\netcoreapp2.1\Service_Now.dll
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\obj\Debug\netcoreapp2.1\Service_Now.pdb
+C:\Users\s.doshi\Documents\Visual Code\Workspace\Service_Now\bin\Debug\netcoreapp2.1\Service_Now.dll.config
